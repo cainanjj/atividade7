@@ -1,0 +1,20 @@
+.primeira {
+    background-color: aquamarine;
+    border: 2px solid #a7f3d0;
+    color: #a7f;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-inline-start: 30px 50px 10px;
+    
+}
+
+.segunda{
+    background-color: blue;
+    border:#a7f;
+    color: aquamarine;
+    width: 160px;
+    height: 200px;
+    padding-bottom: 40px 60px 70px;
+    
+}
